@@ -1,0 +1,16 @@
+{
+  "name": "stock-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Ali Bahaari",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "base64-img": "^1.0.4",
+    "tesseract.js": "^2.1.4"
+  }
+}

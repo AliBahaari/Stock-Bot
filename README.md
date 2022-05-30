@@ -1,5 +1,5 @@
 
-# Saman Bank Broker Bot
+# Stock Bot
 
 This is a bot for Saman bank broker which tries to achieve the first rows in queues in pre-opening (for selling and buying shares).
 

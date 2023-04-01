@@ -8,7 +8,7 @@ This is a bot for Saman bank broker which tries to achieve the first rows in que
 
 First, clone the project and after that enter the command below:
 ```bash
-cd saman-bank-broker-bot
+cd Stock-Bot
 ```
 
 Then, open `index.js` file and change this line:
